@@ -1,4 +1,4 @@
-# viniciusm0
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusm0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusm0&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ### 👋 Olá visitante :)
 Meu nome é Vinicius, tenho 21 anos, estudante no 5ª semestre do curso de ciências da computação e estou me desenvolvendo para o mercado de front-end.
