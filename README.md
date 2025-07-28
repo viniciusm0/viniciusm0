@@ -1,7 +1,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusm0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusm0&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ### 👋 Olá, visitante :)
-Meu nome é Vinicius, tenho 21 anos e estou no 5ª semestre do curso de Ciências da Computação. Estou me desenvolvendo para o mercado de front-end.
+Meu nome é Vinicius, tenho 21 anos e estou no 6ª semestre do curso de Ciências da Computação. Estou me desenvolvendo para o mercado de front-end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-moreira-2a2517265/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rusqui1/)
@@ -17,7 +17,6 @@ Meu nome é Vinicius, tenho 21 anos e estou no 5ª semestre do curso de Ciência
 ### 👨‍💻 Linguagens de programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### ⚙ Frameworks
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
