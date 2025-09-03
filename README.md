@@ -29,5 +29,5 @@ Meu nome é Vinicius, tenho 21 anos e estou no 6ª semestre do curso de Ciência
 
 ## 💡 Alguns dos meus projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusm0&repo=NogStore&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/viniciusm0/nogstore) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusm0&repo=Hapimed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/viniciusm0/Hapimed)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusm0&repo=NogStore&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/viniciusm0/nogstore) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusm0&repo=Hapimed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/viniciusm0/Hapimed](https://github.com/viniciusm0/js-developer-pokedex))
 
