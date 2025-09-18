@@ -20,6 +20,7 @@ Meu nome é Vinicius, tenho 21 anos e estou no 6ª semestre do curso de Ciência
 ### ⚙ Frameworks
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
