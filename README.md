@@ -30,7 +30,3 @@ Meu nome é Vinicius, tenho 22 anos e estou no 8ª semestre do curso de Ciência
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 💡 Alguns dos meus projetos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusm0&repo=NogStore&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/viniciusm0/nogstore) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusm0&repo=js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/viniciusm0/js-developer-pokedex)
-
