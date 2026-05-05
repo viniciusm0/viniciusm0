@@ -1,5 +1,5 @@
 ### 👋 Olá, visitante :)
-Meu nome é Vinicius, tenho 22 anos e estou no 8ª semestre do curso de Ciências da Computação. Estou me desenvolvendo para o mercado de desenvolvedor.
+Meu nome é Vinicius, tenho 22 anos e estou no 7ª semestre do curso de Ciências da Computação. Estou me desenvolvendo para o mercado de desenvolvedor.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-moreira-2a2517265/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rusqui1/)
